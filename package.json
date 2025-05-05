@@ -1,7 +1,7 @@
 {
 	"name": "magic-command",
 	"version": "1.0.0",
-	"description": "Execute commands using AI without leaving your terminal",
+	"description": "Generate commands using AI without leaving your terminal",
 	"main": "index.js",
 	"bin": {
 		"magiccommand": "index.js",
@@ -10,7 +10,10 @@
 	},
 	"keywords": [
 		"ai",
-		"openai"
+		"cli",
+		"tui",
+		"openrouter",
+		"openrouter-api"
 	],
 	"author": "JohanStickman",
 	"license": "MIT",
