@@ -4,6 +4,7 @@
 
 Get an AI-generated command instantly from your terminal. Use any model available on [OpenRouter](https://openrouter.ai), **you'll need your own API key**.
 
+https://github.com/user-attachments/assets/5f0e0a14-6a9e-4e96-b46a-2c3fcdb4cd52
 
 ## Installation
 
