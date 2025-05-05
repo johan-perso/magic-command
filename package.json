@@ -1,0 +1,32 @@
+{
+	"name": "magic-command",
+	"version": "1.0.0",
+	"description": "Execute commands using AI without leaving your terminal",
+	"main": "index.js",
+	"bin": {
+		"magiccommand": "index.js",
+		"magic": "index.js",
+		"?": "index.js"
+	},
+	"keywords": [
+		"ai",
+		"openai"
+	],
+	"author": "JohanStickman",
+	"license": "MIT",
+	"dependencies": {
+		"boxen": "5.1.2",
+		"chalk": "^4.1.2",
+		"clipboardy": "^2.3.0",
+		"inquirer": "^8.2.6",
+		"ora": "5.4.1",
+		"update-notifier": "5.1.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/johan-perso/magic-command.git"
+	},
+	"devDependencies": {
+		"eslint": "^9.20.1"
+	}
+}
