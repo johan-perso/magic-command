@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/5f0e0a14-6a9e-4e96-b46a-2c3fcdb4cd52
 
 ## Installation
 
-> TeableToJSON only supports recent versions of NodeJS (v20+).
+> Magic Command only supports recent versions of NodeJS (v20+).
 
 ```bash
 # With npm
