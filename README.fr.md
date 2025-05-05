@@ -4,6 +4,7 @@
 
 Obtenez une commande générée par IA en un instant depuis votre terminal. Utilisez n'importe quel modèle disponible sur [OpenRouter](https://openrouter.ai), **vous aurez besoin de votre propre clé d'API**.
 
+https://github.com/user-attachments/assets/5f0e0a14-6a9e-4e96-b46a-2c3fcdb4cd52
 
 ## Installation
 
