@@ -123,6 +123,7 @@ User-configuration:
 - OS: ${process.platform == "win32" ? "Windows" : process.platform == "darwin" ? "macOS" : process.platform} ${process.arch}
 - Version: ${os.version()}
 - Homedir: ${os.homedir()}
+- Current dir: ${process.cwd()}
 - ${process.env.TERM_PROGRAM ? `Terminal: ${process.env.TERM_PROGRAM}` : ""}
 - ${process.env.SHELL ? `Shell: ${process.env.SHELL}` : ""}
 - ${process.env.EDITOR ? `Editor: ${process.env.EDITOR}` : ""}
