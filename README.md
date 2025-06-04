@@ -49,6 +49,6 @@ MAGICCOMMAND_OPENROUTER_MODEL=openai/gpt-4o-mini
 ```
 
 
-## Licence
+## License
 
-MIT © [Johan](https://johanstick.fr). Support this project via [Ko-Fi](https://ko-fi.com/johan_stickman) or [PayPal](https://paypal.me/moipastoii) if you want to help me 💙
+MIT © [Johan](https://johanstick.fr/). [Support this project](https://johanstick.fr/#donate) if you want to help me 💙
